@@ -1,3 +1,10 @@
+# Pipes
+## Usando processos pais e filhos 
+
+```
+Foi feito um codigo com que o processo pai escreveria num pipe e o processo filho leria
+```
+
 # Makefile
 
 ### Clone Project
